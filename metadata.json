@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of Copy of Copy of Copy of Cartoon Story Generator",
+  "description": "An application that generates a complete, production-ready cartoon story video from a single user instruction using Gemini. It creates the story, scenes, images, and voiceovers, then simulates rendering them into a final video.",
+  "requestFramePermissions": []
+}
